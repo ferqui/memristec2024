@@ -1,0 +1,7 @@
+[submodule "ARCANA"]
+	path = ARCANA
+	url = https://github.com/ferqui/ARCANA.git
+	branch = develop
+[submodule "dynap-se1"]
+	path = dynap-se1
+	url = https://code.ini.uzh.ch/ncs/libs/dynap-se1.git
